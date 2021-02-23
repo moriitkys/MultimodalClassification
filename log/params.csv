@@ -1,0 +1,3 @@
+var_sp_trainvalratio,0.7
+var_sp_epochs,25
+flag_train,False
